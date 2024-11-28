@@ -64,3 +64,6 @@ with c2:
 
 	pie + text
 
+
+left, middle, right = st.columns(3)
+right.link_button("Go back to portfolio", "https://ainurafifah00.github.io/", type='primary')
